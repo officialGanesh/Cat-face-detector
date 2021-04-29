@@ -1,10 +1,10 @@
-# Detecting Dog Faces Using Python. 😏
+# Detecting Cat Faces Using Python. 😏
 
 ## Project Description 
 For this project we are going to use one of the face detecting technique that is HAARCASCADE
 this method is also use to detect other things like dogFace,Smile,ear and mouth of human beings etc.
 
-1️⃣ For our project we are using dog dataset.
+1️⃣ For our project we are using cat dataset.
 2️⃣ Using opencv library to detect the faces.
 3️⃣ Drawing rectangles to show detected faces.
 
